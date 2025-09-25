@@ -23,7 +23,7 @@
 
 <!-- Excel Projects -->
 <p align="left">
-  <a href="https://github.com/topics/excel" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/Favgi/topics/excel" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="20" alt="Excel logo"/>
     Excel Projects
   </a>
@@ -31,7 +31,7 @@
 
 <!-- Power BI Projects -->
 <p align="left">
-  <a href="https://github.com/topics/powerbi" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/Favgi/topics/powerbi" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="20" alt="Power BI logo"/>
     Power BI Projects
   </a>
