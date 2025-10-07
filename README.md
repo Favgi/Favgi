@@ -28,7 +28,10 @@
     Excel Projects
   </a>
 </p>
+> Click to see my featured Excel Project
 
+###
+#
 <!-- Power BI Projects -->
 <p align="left">
   <a href="https://github.com/Favgi/topics/powerbi" target="_blank" style="text-decoration: none; color: inherit;">
@@ -36,13 +39,14 @@
     Power BI Projects
   </a>
 </p>
+> Click to see my featured Excel Project
 
 ###
 #
 <p align="left">📧Contact Me</p>
 
 ###
-
+Let's connect, Feel free to reach out through any of the platforms below:
 <div align="left">
   <a href="https://www.linkedin.com/in/gift-agoha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
